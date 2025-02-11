@@ -1,4 +1,4 @@
 ## Hola 🤠
 
-- 🌌 Currently working on artificial knowledge projects with [Algolas](https://algolas.com)
+- 🌌 Currently working on projects with [Algolas](https://algolas.com) and [ETH juniors](https://ethjuniors.ch)
 - 🔬 Interested in computer science, complex systems and chaos
